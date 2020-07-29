@@ -1,0 +1,128 @@
+Schedule:
+Sleep at 12:00
+6:00 - 8:00 workout + shower 
+Drink lots of water, DONT EAT NO MATTER WHAT, REMEMBER HOW U USED TO LOOK AND HOW IT FELT 
+8:00 - 11:00 Technical programming + competitive programming
+	finish geeksforgeeks, hackerrank + codesignal 'interview' first, then do competitive + leetcode + other stuffs, AFTER EACH PROB FIND BEST WAY TO SOLVE
+11:00 - 12:00 eat small SNACK!
+12:00 - 10:00:
+	DONT EAT AGAIN UNTIL EVENING AND EAT HEALTHY
+	work on one project, two if time
+	**FINISH NEW PROJECT EVERY TWO DAYS** THEN START BUILDING OWN
+	small guitar breaks in between, DONT BE LAZY AND WASTE TIME 
+10:00 - 11:00 hangout with squibs 
+11:00 - 12:00 calisthenics + sleep
+
+REMEMBER ENTREPRENEUR VIDEO, THINK ABOUT YOUR FUTURE GETTING AN INTERNSHIP OR JOB THEN COMING BACK TO CAMPUS TO CHILL, THINK ABOUT EVERYTHING YOU WANT TO ACHIEVE AND WHAT MATTERS MOST TO YOU
+
+
+
+REMEMBER ENTREPRENEUR VIDEO
+
+REMEMBER PEOPLE EVERYONE SAYING U CAN DO IT IF U PUT UR MIND TO IT, BE STUBBORN AND ARROGANT LIKE U USED TO BE
+
+YOU CAN DO IT, STOP BEING LAZY, DONT HURT PEOPLE, BEAT DARREN
+FUCK BECOME SOMEONE YOU’RE PROUD OF, FUCKING BEAT DARREN
+DONT REGRET ANYTHING, REMEMBER YOUR CHILDHOOD DREAMS, YOU’RE 19 NOW, DONT WASTE THIS LIFE YOU HAVE, MAKE YOUR FUTURE WORTHWHILE AND FUN
+
+REMEMBER ALL YOUR LOSSES, BEAT DARREN AND EVERYONE ELSE, REMEMBER YOUR FUTURE AND GOALS, DONT LOSE
+
+=======================================================================================================
+
+GENERAL NOTES:
+- UPDATE LINKEDIN + GITHUB + PORTFOLIO WEBSITE
+
+PROJECT LIST:
+- PYTHON:
+- SAAS + WEB DEV:
+- AI:
+- MISC:
+	- visual path finding + add something to it once u make it 
+	- visual sorting algorithm + same thing as above 
+	- DATA SCIENCE project or something to do with big data at least
+	- MAKE GOOGLE SEARCH ENGINE FROM SCRATCH, see how it works? https://moz.com/beginners-guide-to-seo/how-search-engines-operate 
+	- web browser from scratch, pywebview
+	- data compression huffman algorithm
+
+- COME UP WITH A PROJECT TO MAKE SIDE INCOME LOOK AT OTHERS FOR EXAMPLES
+- use debugger
+- pygame multiplayer chess with ai + look at codebullet stuff
+- stocktrading bot on paper trading(deep learning and algo) + other bots
+	- tinder bot, automate matching + conversations 
+- bot to buy stuff online or something + resell market app
+- web scraping python projects(selenium + scrapy)
+- open cv projects + snapchat filter + facial recognition?
+- networking in python for communication stuff
+	- chat app in python with encryption
+- coding entrpreneurs stuff
+- pytorch course + techwithtim ai + cloud training
+	- alphazero + other stuff similar
+- math for cs
+- start open source 
+- block chain projects 
+- tech with tim stuff, especially ai + pytorch course -> do a big data project with scrapy scraping
+- implement databases with projects
+- TECHNICAL PROGRAMMING + data structures
+	- FINISH geeks for geeks + hackerrank then other stuff
+	- do top leetcode questions 5 times until you have it memorized 
+- Serverless Container Python App on docker/aws, opencv rest api, 
+=======================================================================================================
+
+Today:
+- make list of potential side income projects + stock trading bot on paper trading 
+- video is really popular + tik tok think of something u can do with that or some social media thing
+- finish all coding entpreneurs stuff today -> opencv/web scraping(news, reddit, yt, tiktok) -> bot stuff(tinder/stocks) -> networking -> ai
+- sleep at 11:00
+- wakeup at 5:45
+- 6:00 - 8:00 run + calisthenics
+- 8:00 - 9:00 shower + chill 
+- 9:00 - 9:00 STRAIGHT PROGRAM, TAKE LESS BREAKS, ONLY EAT ONE MEAL AT 2:00, then small meal at 6:00
+	- small guitar breaks but nothing more, PUT GUITAR ON BED DONT TOUCH BED
+- 9:00 - 11:00 hangout with squibs, DONT EAT ANYTHING SERIOUSLY YOURE ABOUT TO SLEEP
+
+Goals:
+- THIS MONTH SET UP SAMPLE RESUME AND SEND TO SMALL PLACES THEN UPGRADE AND SEND TO BIGGER PLACES
+- finish coding entpreneurs, setup whats next to program
+- in August start putting together Linkedin, Github, and Portfolio website + add technical + projects
+- september start submitted resumes and stuff
+- YOU HAVE TO HAVE REALLY GOOD PROJECTS + SIDE BUSINESS to have good resume at this point, your experience and grades are lacking
+
+START NEW GITHUB ACCOUNT, upload school work too, and competition problems???
+finish coding entrepreneurs and resume stuff, setup github and personal website and linkedin
+finish projects on resume, github, linkedin then website, UPLOAD ALL COMPLETED TO GITHUB, UPLOAD ONLY BACKEND OF SOCIAL MEDIA APP then copy front end
+START APPLYING TO A BUNCH OF THINGS BEFORE THIS MONTH ENDS 
+- LOOK AT WHAT BIG COMPANIES WANT IN SKILLS AND LEARN, ADD QUANT STUFF TO RESUME AND APPLY for internships
+=======================================================================================================
+
+Unfinished Projects:
+- programming language
+- social media app frontend 
+
+Completed Projects:
+- jupyter aws 
+- email
+- web scrape movie data using requests library
+- moviepy stuff, thumbnails, video from image, gif, overlay video, music, text
+- 
+
+Project Ideas:
+- pokemonshowdown bot + other games
+- solve rubiks cube
+- multiplayer music creation like plink.in
+- other multiplayer or multiuser engage things
+- make a service like techlead for daily questions 
+Python:
+- Something web scraping 
+- Venmo automatically send payment requests
+
+Mobile:
+- Chatroom based on IP so u can communicate with people in the same area as you
+    - If you detect two people that have the app are in the same place then automatically create a chat room for people to talk 
+
+Web:
+- Newsite aggregate by news topic, web scraping then link to page with thumbnail 
+- Trending site, gets everything that’s trending at that moment 
+
+Game:
+
+ML:
